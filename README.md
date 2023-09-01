@@ -11,7 +11,8 @@ https://www.kaggle.com/datasets/sidharth178/car-prices-dataset
 -fda
 -fda
 
-[color of car](https://github.com/aksalas/Car-Sales/assets/95392861/024a206b-7f70-4efc-b787-6df906c9ff0e)
+![color car](https://github.com/aksalas/Car-Sales/assets/95392861/021403b8-bd8d-42c4-8dbc-9b42eb4a3412)
+
  has one of the strongest correlations with Item sales.
 - Other data values have little to no correlation with item sales
 
